@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-spacenewsapi/static/css/main.b3f0819c.css",
+    "main.js": "/react-spacenewsapi/static/js/main.8447c393.js",
+    "static/js/787.6df56b01.chunk.js": "/react-spacenewsapi/static/js/787.6df56b01.chunk.js",
+    "index.html": "/react-spacenewsapi/index.html",
+    "main.b3f0819c.css.map": "/react-spacenewsapi/static/css/main.b3f0819c.css.map",
+    "main.8447c393.js.map": "/react-spacenewsapi/static/js/main.8447c393.js.map",
+    "787.6df56b01.chunk.js.map": "/react-spacenewsapi/static/js/787.6df56b01.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3f0819c.css",
+    "static/js/main.8447c393.js"
+  ]
+}
